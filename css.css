@@ -1,0 +1,17 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.liska {
+    position: fixed;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+}
